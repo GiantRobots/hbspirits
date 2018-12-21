@@ -1,4 +1,5 @@
 module.exports = {
+  // pathPrefix: '/hbspirits',
   siteMetadata: {
     title: `HB Spirits`,
     description: `A Spirit and Wine Importing company.`,
