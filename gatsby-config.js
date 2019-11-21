@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     title: `HB Spirits`,
     description: `A Spirit and Wine Importing company.`,
-    author: `Alex Thomsen`,
+    author: ``,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
