@@ -33,11 +33,11 @@ const IndexPage = () => (
     </h1>
     <div
       style={{
-        width: 550,
-        padding: 50,
+        width: '60vw',
+        padding: '7vw',
         margin: 'auto',
         textAlign: 'center',
-        marginTop: 100,
+        marginTop: 70,
         backgroundColor: 'rgba(255, 255, 255, 0.95)',
         fontFamily: 'helvetica',
         fontSize: 24,
